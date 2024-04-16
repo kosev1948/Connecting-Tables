@@ -29,3 +29,4 @@ C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Connecting Tables\Connecting Tables\o
 C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Connecting Tables\Connecting Tables\obj\Debug\net8.0-windows\Connecting Tables.pdb
 C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Connecting Tables\Connecting Tables\obj\Debug\net8.0-windows\Connecting Tables.genruntimeconfig.cache
 C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Connecting Tables\Connecting Tables\obj\Debug\net8.0-windows\ref\Connecting Tables.dll
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Connecting Tables\Connecting Tables\obj\Debug\net8.0-windows\Connecting Tables.sourcelink.json
