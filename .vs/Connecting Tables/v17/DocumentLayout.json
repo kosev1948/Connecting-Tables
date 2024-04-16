@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7C20CAF0-68F7-4254-8CC9-AFDF82E9D198}|Connecting Tables\\Connecting Tables.csproj|solutionrelative:connecting tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C20CAF0-68F7-4254-8CC9-AFDF82E9D198}|Connecting Tables\\Connecting Tables.csproj|c:\\users\\students-1212-5\\desktop\\11d kosev\\connecting tables\\connecting tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C20CAF0-68F7-4254-8CC9-AFDF82E9D198}|Connecting Tables\\Connecting Tables.csproj|C:\\Users\\STUDENTS-1212-5\\Desktop\\11D Kosev\\Connecting Tables\\connecting tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C20CAF0-68F7-4254-8CC9-AFDF82E9D198}|Connecting Tables\\Connecting Tables.csproj|solutionrelative:connecting tables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Connecting Tables\\Form1.cs",
               "ToolTip": "C:\\Users\\STUDENTS-1212-5\\Desktop\\11D Kosev\\Connecting Tables\\Connecting Tables\\Form1.cs",
               "RelativeToolTip": "Connecting Tables\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T07:22:30.16Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\STUDENTS-1212-5\\Desktop\\11D Kosev\\Connecting Tables\\Connecting Tables\\Form1.cs [Design]",
               "RelativeToolTip": "Connecting Tables\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:10:16.165Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-16T07:10:16.165Z"
             }
           ]
         }
